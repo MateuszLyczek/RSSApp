@@ -1,13 +1,20 @@
 {
   "name": "zaliczeniechmura",
   "version": "1.0.0",
-  "description": "",
+  "description": "Projekt zaliczeniowy - Budowa i Administracja Aplikacji w Chmurze",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Mateusz Łyczek",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MateuszLyczek/RSSApp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MateuszLyczek/RSSApp/issues"
+  },
+  "homepage": "https://github.com/MateuszLyczek/RSSApp#readme"
 }
-
