@@ -5,4 +5,7 @@ app.get('/test', (request, respond) => {
 })
 
 app.use(express.static(__dirname + '/public'))
-app.listen(3000)
+
+app.listen(3000, () => {
+    console.log('Serwer wystartował na porcie 3000')
+})
